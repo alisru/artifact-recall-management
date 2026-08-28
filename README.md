@@ -1,6 +1,5 @@
 # ⬡ Artifact Recall Management (ARM)
 
-Consider the conceptual body; When someone helps you stand they join your feet, like a philosophers shoes made of truths. When they help you think they join your head like AI processing. When they help you do they join your ARMs. 
 Have a habit of making chats with artifacts and forgetting to save them? then never able to remember where they went?
 Have hundreds of chats that RAG cannot find?
 So do I
