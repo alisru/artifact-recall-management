@@ -1,10 +1,15 @@
 # ⬡ Artifact Recall Management (ARM)
 
-Why does Claude's artifact list have no semblence of order, I want to cry after long sessions because its so confusing looking at the list of artifacts with memory loss issues that'd make Claude blush, so I started off with a simple sorting tool in the DOM and it turned into a project-artifact viewing system because keeping track of artifacts is bonkers cray cray doo doo bananas before.
+Consider the conceptual body; When someone helps you stand they join your feet, like a philosophers shoes made of truths. When they help you think they join your head like AI processing. When they help you do they join your ARMs. 
+Have a habit of making chats with artifacts and forgetting to save them? then never able to remember where they went?
+Have hundreds of chats that RAG cannot find?
+So do I
+
+ARM begun as a simple artifact sorting tool for Claude since its artifact list has no semblance of order, it turned into a project-artifact viewing system because keeping track of artifacts is impossible with memory loss issues.
 
 This is an autonomous Chrome Extension for enhancing the **Claude.ai** and **Gemini** experience. This tool provides advanced artifact management, real-time sorting, and AI-powered summarization, all while preserving the integrity of your original chat flow.
 
-This project exists because the native experience is fundamentally broken for power users. What started as a simple fix for a disorganized list has been built out into a comprehensive **Project-Artifact Viewing System**. This extension treats your artifacts as an indexed database rather than a pile of discarded drafts. It’s about taking control of the "cray cray doo doo bananas" chaos and turning it into a searchable archive that actually remembers what you did—even when you (and Claude) have reached the limits of your memory.
+This project exists because the native experience is fundamentally broken for power users. What started as a simple fix for a disorganized list has been built out into a comprehensive **Project-Artifact Viewing System**. This extension treats your artifacts as an indexed database rather than a pile of discarded drafts. It’s about taking control of the chaos and turning it into a searchable archive that actually remembers what you did—even when you (and AI) have reached the limits of your memory.
 
 ---
 
